@@ -286,10 +286,3 @@ int lab3_init()
 }
 
 
-
-
-
-
-
-
-DWORD WINAPI thread_a(LPVOID), thread_b(LPVOID), thread_c(LPVOID), thread_d(LPVOID), thread_e(LPVOID), thread_f(LPVOID), thread_g(LPVOID), thread_h(LPVOID), thread_i(LPVOID), thread_k(LPVOID);
